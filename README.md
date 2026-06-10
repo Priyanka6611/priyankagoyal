@@ -1,47 +1,66 @@
-# Hi there 👋, I'm Priyanka Goyal  
+Hi there, I'm Priyanka Goyal
+Senior Test Lead | Test Automation Consultant | Agile QA Specialist
 
-🚀 **Agile QA Test Engineer & Developer** passionate about delivering high-quality digital solutions.  
-I combine **9+ years of QA, automation, and Agile leadership** with strong hands-on experience in **.NET, Angular, Playwright, and Azure DevOps**.  
+Australian Citizen | AGSVA Baseline Security Clearance
 
----
+Passionate about delivering high-quality, secure, and reliable digital solutions across Federal Government, Retail, Banking, Healthcare, and Enterprise environments.
 
-## 🔧 Tech Stack
-- **Languages:** C#, TypeScript, SQL  
-- **Frameworks:** .NET Core, Angular, Blazor, Playwright  
-- **Cloud & DevOps:** Azure DevOps, GitHub Actions, CI/CD pipelines  
-- **Tools & Platforms:** Postman, JIRA, Confluence, Okta SSO  
-- **Practices:** Agile Delivery, Clean Architecture, CQRS + MediatR, Continuous Testing  
+With 10+ years of experience, I specialise in Test Leadership, Test Automation, Quality Engineering, UAT Coordination, Release Readiness, and Risk-Based Testing. I have successfully delivered testing outcomes for complex programs supporting organisations including ATO, Woolworths Group, Coles, NAB, Victorian Government, HESTA, and other enterprise clients.
 
----
+🔧 Core Skills
+Test Strategy & Test Planning
+Test Automation (Playwright, Selenium, SpecFlow)
+API Testing (Postman, REST APIs)
+UAT & SIT Management
+Azure DevOps Test Plans
+Agile & SAFe Delivery
+CI/CD Testing
+SQL & Data Validation
+Identity & Access Management Testing
+Okta, OAuth, SAML, SSO
+Defect Management & Release Governance
+💻 Technology Stack
 
-## 📌 Featured Projects
-- **ATR Error Management** → Centralized error logging with Serilog + SQL Sink & Blazor UI.  
-- **Angular Upgrade (15 → 17)** → Successful migration with code refactoring, best practices & improved performance.  
-- **Playwright Automation Suite** → Hybrid UI + API testing framework integrated into CI/CD pipelines.  
-- **Okta User Management** → Role-based authentication & access integration in enterprise apps.  
+Automation: Playwright, Selenium WebDriver, SpecFlow, C#
 
-*(Demo repos available here — sanitized versions of enterprise projects.)*
+API Testing: Postman, REST APIs, JSON, XML
 
----
+Test Management: Azure DevOps, Jira, Confluence
 
-## 🌱 What I'm Learning
-- Angular 18 migration strategies  
-- Advanced Playwright API testing  
-- Cloud integrations (Azure / AWS fundamentals)  
+Database Testing: SQL Server, Data Validation
 
----
+CI/CD: Azure DevOps Pipelines, GitHub Actions, Jenkins
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)  
+Cloud: AWS, Enterprise Integrations
 
----
+📌 Featured Projects
+Playwright Automation Framework
 
-## 🤝 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/priyankagoyal/)  
-- [Portfolio Website](https://yourwebsite.com)  
-- 📧 priyankagoyal6611@gmail.com  
+Enterprise-grade UI and API automation framework built using Playwright, C#, and CI/CD integration.
 
----
-⭐️ *“Quality isn’t tested in — it’s built in.”*  
+Test Management Portfolio
+
+Collection of Test Strategies, Test Plans, RTMs, Defect Reports, Test Summary Reports, and UAT deliverables.
+
+Identity & Access Management Testing
+
+Authentication, Authorisation, SSO, OAuth, SAML, and Okta validation across enterprise platforms.
+
+API Testing Framework
+
+Postman collections, automated API validations, environment management, and CI/CD execution pipelines.
+
+🏆 Certifications
+ISTQB Certified Tester
+SAFe® Agilist
+Certified Scrum Master (CSM)
+🌱 Currently Exploring
+Advanced Playwright Framework Design
+AI-Assisted Testing
+Cloud-Native Test Automation
+Azure & AWS Testing Practices
+🤝 Let's Connect
+
+LinkedIn: www.linkedin.com/in/priyanka-goyal
+
+Email: priyankagoyal6611@gmail.com
